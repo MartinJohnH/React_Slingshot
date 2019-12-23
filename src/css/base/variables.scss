@@ -1,19 +1,35 @@
+@image-path: "../img";
+
 // responsive breakpoints
-$s-viewport: 425px;
-$sm-viewport: 576px;
-$md-viewport: 768px;
-$lg-viewport: 992px;
-$xl-viewport: 1200px;
-$xxl-viewport: 1600px;
-$xxxl-viewport: 2000px;
+@sm-viewport: 576px;
+@md-viewport: 768px;
+@lg-viewport: 992px;
+@xl-viewport: 1200px;
+@xxl-viewport: 1400px;
 
 // colors
-$White: #FFFFFF;
-$Charcoal: #222222;
-$Light-Grey: #F3F3F3;
-$Grey: #EEEEEE;
-$Dark-Grey: #B7B7B7;
-$Light-Green: #0ca92a;
+@red-generic: #d80024;
+@black: #000;
+@black-police: #4b4b4d;
+@black-lines: #646567;
+@black-titles: #58585a;
+@black-underline: #9d9fa2;
+@blue: #0050ee;
+@blue-lighter: #f0f8f9;
+@green: #39b54a;
+@grey: #eeeeee;
+@grey-light: #b3b3b4;
+@grey-background: #f6f6f6;
+@grey-border: #cecfd0;
+@grey-listProducts: #f4f4f4;
+@white: #fff;
+@yellow-shop: #fcce08;
+@blue-shop: #6fb6c6;
 
 //shadows
 $box-shaodw: 0px 0px 15px 0px rgba(0,0,0,0.075);
+
+
+
+
+
